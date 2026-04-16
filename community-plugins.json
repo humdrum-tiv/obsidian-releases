@@ -19276,5 +19276,12 @@
     "author": "Santi Younger",
     "description": "Calculate reading time estimates for selected text using your own reading speed in Words Per Minute.",
     "repo": "santiyounger/wpm-reading-time"
+  },
+  {
+    "id": "daily-context-panel",
+    "name": "On This Day Panel",
+    "author": "Kevin Kortum",
+    "description": "Shows files created or modified on the date of the active daily note in a side panel.",
+    "repo": "humdrum-tiv/daily-context-panel"
   }
 ]
